@@ -9,6 +9,8 @@ namespace WpfHorseRace
 	/// </summary>
 	public class RaceHorse : INotifyPropertyChanged
 	{
+        // Parker Comment
+
 		#region Data
 
 		// Static fields
